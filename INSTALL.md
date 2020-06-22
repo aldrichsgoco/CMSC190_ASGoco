@@ -7,4 +7,4 @@ pip install numpy\
 pip install pygame\
 pip install neat-python\
 pip install graphviz\
-pip install matplotlib\
+pip install matplotlib
